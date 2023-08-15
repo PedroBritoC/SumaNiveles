@@ -6,7 +6,7 @@ Instrucciones:
 
 👉 En la casilla N, ingrese el dato de el número de fuentes.
 
-            ✔️ N puede tomar los valore 1, 2 o 3.
+            ✔️ N puede tomar los valore entre 1 y 4.
 
 👉 En la casilla Q, ingrese el factor de directividad de la fuente sonora.
 
