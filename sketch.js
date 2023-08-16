@@ -122,7 +122,7 @@ function draw() {
   text(round(r,2)+"[m]",x-10,380);
   text("Lp="+NPS+"[dB]",x-30,320);
   stroke(128, 128, 128);
-  line(70,400,x+10,399); //eje X
+  line(70,400,x+10,400); //eje X
   circle(x+15,400,10);//Eje X
   pop()
 
